@@ -1,3 +1,3 @@
 -- SQLite
-SELECT Id, UserName
+SELECT *
 FROM Users;
